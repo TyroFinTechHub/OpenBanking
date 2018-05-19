@@ -14,12 +14,12 @@ This resource is organized into the following sections:
    * [Participants to come]
     * Contains a page of participants in order to maintain appropriate contact information
 * **API Providers**
-  * [API Provider Code Base]. Each API Provider will have:
+  * Each API Provider code base will have:
       * **API​**: Documentation that references product descriptions in the Wiki    
       * **Issues​**: Solutions to known bugs and references to solutions on StackOverflow
       * **Integrations​**: Solutions to convert external data sources into useful formats for databases, visualizations, etc...
  * **Data Providers**
-   * [Data Provider Code Base]. Each Data Provider will be structured as three sub-folders:
+   * Each Data Provider code base will be structured as three sub-folders:
       * **Datasets​**: Overtime, we hope to add providers and sample datasets relevant to this community.
       * **Issues​**: Solutions to known bugs and references to solutions on StackOverflow
       * **Integrations​**: Solutions to convert external data sources into useful formats for databases, visualizations, etc...
@@ -46,4 +46,4 @@ Contributions should detail any/some/all of the following items:
   
 ## Contact
 Feel free to post any issues/comments/requests as issues in this repository.  
-Contact **hello<at>tyrofintechhub.com**
+Contact **hello(at)tyrofintechhub.com**

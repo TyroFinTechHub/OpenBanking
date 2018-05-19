@@ -1,4 +1,4 @@
-# Public-APIs
+Public APIs
 This is an attempt to categorise different Open Banking APIs scoured from the web which make their resources available for consumption.
 
 *Items marked with 🙌are open-source
@@ -6,10 +6,10 @@ This is an attempt to categorise different Open Banking APIs scoured from the we
 
 
 ### UK Open Banking Standards
-* [UK Open Banking Developer Zone](https://openbanking.atlassian.net/wiki/spaces/DZ/overview) 🙌- use these Open Banking API specifications and Data Standards to open up easy entry into a new UK retail banking marketplace. 
-* [UK Open Banking Read/Write APIs](https://www.openbanking.org.uk/read-write-apis/) 🙌- enables Account Servicing Payment Service Providers to build endpoints for API Users (Account Information & Transaction and Payment Initiation)
-* [UK Open Banking Open Data APIs](https://www.openbanking.org.uk/open-data-apis/) 🙌- enables Banks, Building Societies, ATM Providers to build endpoints which can be accessed by API users (3rd party developers to build mobile/web applications for banking customers.
-* [UK Open Banking OIDC Security Profile](https://www.openbanking.org.uk/open-data-apis/) 🙌- Defines how Read/Write APIs are secured using Mutual TLS, OAuth 2.0 and Open ID Connect.
+* [Developer Zone](https://openbanking.atlassian.net/wiki/spaces/DZ/overview) 🙌- use these Open Banking API specifications and Data Standards to open up easy entry into a new UK retail banking marketplace. 
+* [Read/Write APIs](https://www.openbanking.org.uk/read-write-apis/) 🙌- enables Account Servicing Payment Service Providers to build endpoints for API Users (Account Information & Transaction and Payment Initiation)
+* [Open Data APIs](https://www.openbanking.org.uk/open-data-apis/) 🙌- enables Banks, Building Societies, ATM Providers to build endpoints which can be accessed by API users (3rd party developers to build mobile/web applications for banking customers.
+* [OIDC Security Profile](https://www.openbanking.org.uk/open-data-apis/) 🙌- Defines how Read/Write APIs are secured using Mutual TLS, OAuth 2.0 and Open ID Connect.
 
 * [List of Regulated Providers](https://www.openbanking.org.uk/regulated-providers/page/2/) enrolled and offering services using Open Banking.
 

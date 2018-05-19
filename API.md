@@ -13,7 +13,7 @@ This is an attempt to categorise different Open Banking APIs scoured from the we
 
 * [List of Regulated Providers](https://www.openbanking.org.uk/regulated-providers/page/2/) enrolled and offering services using Open Banking.
 
-### UK Open Bank APIs
+### UK
 UK’s nine largest banks and building societies must make your data available through Open Banking [deadline: 13 Jan 2018] 
 * Allied Irish Bank
 * Bank of Scotland
@@ -38,7 +38,13 @@ Others:
 Interestingly, Teller the API for your bank account is here 
 
 ### AUS
-* [AU Open Markets](https://www.openmarkets.com.au/services/developer-apis-and-fix-services/) 💸 
+* Australian Government -  commissioned an independent review to recommend the best approach to implement an Open Banking regime in Australia 
+  * 20 Jul 2017 - [Treasurer's Statement](http://sjm.ministers.treasury.gov.au/media-release/065-2017/)
+* [Macquarie Bank]
+  * (https://www.macquarie.com/au/business-banking/business-strategy/expertise/what-the-new-wave-of-technology-means-for-you/) 💸 - Open Platform statement
+  * 30 Jan 2018 AFR - [Pocketbook connects with Macquarie API](http://www.afr.com/business/banking-and-finance/financial-services/pocketbook-connects-to-macquarie-via-api-20180130-h0qj9x)
+* [AU Open Markets](https://www.openmarkets.com.au/services/developer-apis-and-fix-services/) 💸 - Developer services for API and FIX access to ASX, Chi-X, NSX. 
+* [Paritech Web APIs](http://www.paritech.com.au/products/)
 
 ### NZ
 * Insert Here
@@ -46,9 +52,11 @@ Interestingly, Teller the API for your bank account is here
 ### US
 * BBVA 💸
 
-### CANADA
+### CA
 * Insert Here
 
+### ZA
+* [Investec on PSD2](https://www.investec.com/en_za/welcome-to-investec/news-and-views/insights/technology/banking-revolution-psd2.html) 
 
 ## General API tools
 - [APIs.guru](https://apis.guru/)

@@ -42,7 +42,7 @@ Other:
   * 2017 [Open Platform statement](https://www.macquarie.com/au/business-banking/business-strategy/expertise/what-the-new-wave-of-technology-means-for-you/) 💸 
   * 30 Jan 2018 AFR - [Pocketbook connects with Macquarie API](http://www.afr.com/business/banking-and-finance/financial-services/pocketbook-connects-to-macquarie-via-api-20180130-h0qj9x)
 * Capital Markets
-  * SaxoCapital Markets AU
+  * SaxoCapital Markets AU partnering with Open Markets ([Jun 2017, Leaprate)](https://www.leaprate.com/forex/brokers/saxo-bank-australia-partnership-fx-cfd-openmarkets)
   * [AU Open Markets](https://www.openmarkets.com.au/services/developer-apis-and-fix-services/) 💸 - Developer services for API and FIX access to ASX, Chi-X, NSX. 
   * [Paritech Web APIs](http://www.paritech.com.au/products/)
 

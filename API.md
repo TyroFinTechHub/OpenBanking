@@ -1,9 +1,8 @@
 Public APIs
 This is an attempt to categorise different Open Banking APIs scoured from the web which make their resources available for consumption.
 
-*Items marked with 🙌are open-source
-*Items marked with 💸 are trial based APIs
-
+Items marked with 🙌are open-source
+Items marked with 💸 are trial based APIs
 
 ### UK Open Banking Standards
 * [Developer Zone](https://openbanking.atlassian.net/wiki/spaces/DZ/overview) 🙌- use these Open Banking API specifications and Data Standards to open up easy entry into a new UK retail banking marketplace. 
@@ -33,23 +32,22 @@ Other smaller banks and building societies can choose to take part in Open Banki
 * First Direct
 * M&S Bank
 
-Others: 
+Other: 
 * Teller 💸 - third party API provider of 11 supported UK Banks (including TSB, Tesco, Metro, Isle of Man). Read their [blog](https://blog.teller.io/2017/06/12/the-api-for-your-bank-account-is-here.html)
-Interestingly, Teller the API for your bank account is here 
 
 ### AUS
-* Australian Government -  commissioned an independent review to recommend the best approach to implement an Open Banking regime in Australia 
+* Australian Government commissioned an independent review to recommend the best approach to implement an Open Banking regime in Australia 
   * 20 Jul 2017 - [Treasurer's Statement](http://sjm.ministers.treasury.gov.au/media-release/065-2017/)
 * [Macquarie Bank]
-  * [Open Platform statement](https://www.macquarie.com/au/business-banking/business-strategy/expertise/what-the-new-wave-of-technology-means-for-you/) 💸 
+  * 2017 [Open Platform statement](https://www.macquarie.com/au/business-banking/business-strategy/expertise/what-the-new-wave-of-technology-means-for-you/) 💸 
   * 30 Jan 2018 AFR - [Pocketbook connects with Macquarie API](http://www.afr.com/business/banking-and-finance/financial-services/pocketbook-connects-to-macquarie-via-api-20180130-h0qj9x)
 * Capital Markets
-  * [SaxoCapital Markets AU]
+  * SaxoCapital Markets AU
   * [AU Open Markets](https://www.openmarkets.com.au/services/developer-apis-and-fix-services/) 💸 - Developer services for API and FIX access to ASX, Chi-X, NSX. 
   * [Paritech Web APIs](http://www.paritech.com.au/products/)
 
 ### NZ
-* Insert Here
+* May 2017 [FintechNZ blog](https://nzfintech.kiwi/2017/05/11/how-api-enable-a-new-era-of-collaboration)
 
 ### US
 * BBVA 💸

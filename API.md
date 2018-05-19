@@ -41,10 +41,12 @@ Interestingly, Teller the API for your bank account is here
 * Australian Government -  commissioned an independent review to recommend the best approach to implement an Open Banking regime in Australia 
   * 20 Jul 2017 - [Treasurer's Statement](http://sjm.ministers.treasury.gov.au/media-release/065-2017/)
 * [Macquarie Bank]
-  * (https://www.macquarie.com/au/business-banking/business-strategy/expertise/what-the-new-wave-of-technology-means-for-you/) 💸 - Open Platform statement
+  * [Open Platform statement](https://www.macquarie.com/au/business-banking/business-strategy/expertise/what-the-new-wave-of-technology-means-for-you/) 💸 
   * 30 Jan 2018 AFR - [Pocketbook connects with Macquarie API](http://www.afr.com/business/banking-and-finance/financial-services/pocketbook-connects-to-macquarie-via-api-20180130-h0qj9x)
-* [AU Open Markets](https://www.openmarkets.com.au/services/developer-apis-and-fix-services/) 💸 - Developer services for API and FIX access to ASX, Chi-X, NSX. 
-* [Paritech Web APIs](http://www.paritech.com.au/products/)
+* Capital Markets
+  * [SaxoCapital Markets AU]
+  * [AU Open Markets](https://www.openmarkets.com.au/services/developer-apis-and-fix-services/) 💸 - Developer services for API and FIX access to ASX, Chi-X, NSX. 
+  * [Paritech Web APIs](http://www.paritech.com.au/products/)
 
 ### NZ
 * Insert Here

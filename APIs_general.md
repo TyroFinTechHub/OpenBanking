@@ -3,8 +3,8 @@ A listing of Developer services here isn't an endorsement.
 ### Accounting
 * Xero
 * MYOB
-* Intuit Quickbooks
-* [Quickbooks](https://www.smallbizhacksydney.com/hack-getting-started)
+* [Intuit Quickbooks](https://developer.intuit.com/docs/00_quickbooks_online/1_get_started/00_get_started)
+* [Quickbooks SmallBizHack](https://www.smallbizhacksydney.com/hack-getting-started)
 * Reckon
 
 ### Payments 
